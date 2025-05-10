@@ -1,0 +1,7 @@
+
+        Nom de l'événement: mariage
+        Date: 02/02/2005
+        Description: 
+        Lieu: djerba
+        Capacité: 2000
+        

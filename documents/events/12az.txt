@@ -1,0 +1,7 @@
+
+        Nom de l'événement: 12az
+        Date: 11/02/2002
+        Description: 
+        Lieu: tunis
+        Capacité: 50
+        
